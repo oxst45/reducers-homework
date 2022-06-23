@@ -1,0 +1,7 @@
+.App {
+    display: flex;
+}
+
+.todolist {
+    padding: 0 20px;
+}
